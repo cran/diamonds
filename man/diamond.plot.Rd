@@ -25,5 +25,5 @@
   diamond.plot (diamond.edges (base, 1))
   lines (diamond.edges (base, 4))
   lines (diamond.edges (base, 1), lwd=2)
-  title ("Diamond Partition at Level 4", line=0)
+  title ("Diamond Partition at Level 4", line=0) }
 \keyword{hplot}
