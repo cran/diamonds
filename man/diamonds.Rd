@@ -27,6 +27,14 @@
   randlevel (tl, level, d)
   ranptdia (b)
 }
+\arguments{
+  \item{b}{list of coordinates of vertices of a diamond}
+  \item{d}{final depth of recursion of partition}
+  \item{level}{current depth of recursion}
+  \item{parent}{label of next higher level diamond}
+  \item{dt}{list of labels being build recursively}
+  \item{tl}{list of diamonds}
+}
 \details{See R codes.}
 \author{Denis White, \email{white.denis@epa.gov} }
 \seealso{\code{\link{diamond.base}}}

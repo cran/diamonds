@@ -1,6 +1,6 @@
 Package: diamonds 
-Version: 1.0-2
-Date: 2001/12/31
+Version: 1.0-3
+Date: 2002/04/22
 Title: Analysis and sampling grids from diamond partitions
 Author: Denis White <white.denis@epa.gov>
 Maintainer: Denis White <white.denis@epa.gov>
