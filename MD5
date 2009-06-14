@@ -1,0 +1,16 @@
+e7cbb04883022bd617f8864441b4877c *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+13ba40dfdb67a0340ca99505939fe38e *R/diamonds.R
+4abe6e0bfc45d2615ccacca93911642d *man/diamond.base.Rd
+ef0522e133a431e05a50ab414c8696de *man/diamond.centers.Rd
+1812ffd8f4957e0ea576bf5ce73fde89 *man/diamond.dualcents.Rd
+8e589eb04edd89e261fb64109d52201b *man/diamond.dualedges.Rd
+c60237b8918fb03903d48c9266728bc9 *man/diamond.edges.Rd
+2a9900a6aec9083baa6ff74e90ebd765 *man/diamond.hierwalk.Rd
+e616ab3cd8b44c87234dc5de2702ca38 *man/diamond.labels.Rd
+22056d96bff0ea12a4c9f532cdee00db *man/diamond.plot.Rd
+1f427cabb87027178c91f68321b4772c *man/diamond.randlabels.Rd
+bebf175798f4f972b2ae7065d70acfb1 *man/diamond.randpts.Rd
+6178362c584f85b0e4c9f9dc2f7c9008 *man/diamond.randwalk.Rd
+47b628e1ab38f084b393a4fb7835f80e *man/diamond.triedges.Rd
+ce5f1831d929ce60aa6ff1148531de8f *man/diamonds.Rd

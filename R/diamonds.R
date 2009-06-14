@@ -239,6 +239,7 @@ centerdeep <- function (b, level, d)
     sl <- list ()
     for (i in 1:length(st)) 
       sl <- c (sl, list (centerdeep (st[[i]], level+1, d)))
+    sl
   }
 
 #  randomly permute list elements and recurse
@@ -253,6 +254,7 @@ randlevel <- function (tl, level, d)
     sl <- list ()
     for (i in 1:4) 
       sl <- c(sl, randlevel (tl[[i]], level+1, d))
+    sl
   }
 
 #  generate random point in diamond
@@ -288,6 +290,7 @@ hierlabels <- function (parent, level, d)
     sl <- list ()
     for (i in 1:length(st)) 
       sl <- c (sl, list (hierlabels (st[[i]], level+1, d)))
+    sl
   }
 
 #  partition diamond by 4-fold subdivision
